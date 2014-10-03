@@ -22,7 +22,7 @@ public class Runner {
         Car c = saveCar("EK5m","Toyota","22");
         saveWheel("Acede",33, c);
         updateCar(1l,"TATA");
-//        updateWheel(2l,"Squre2",23, c);
+        updateWheel(2l,"Squre2",23, c);
 //        findByName("EK5m");
 //        findByWName("Squre2");
 //        findCarListByMake("Toyota");
